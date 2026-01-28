@@ -1,1 +1,3 @@
-# 03a_Inheritance_Vererbung
+# 03b_Inheritance_Vererbung
+
+Variante mit getrennten Klassen
